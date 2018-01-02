@@ -1,0 +1,10 @@
+c:\users\pavitra\documents\visual studio 2017\Projects\Connect Four\Connect Four\bin\Debug\Connect Four.exe
+c:\users\pavitra\documents\visual studio 2017\Projects\Connect Four\Connect Four\bin\Debug\Connect Four.pdb
+c:\users\pavitra\documents\visual studio 2017\Projects\Connect Four\Connect Four\obj\Debug\Connect Four.csprojResolveAssemblyReference.cache
+c:\users\pavitra\documents\visual studio 2017\Projects\Connect Four\Connect Four\obj\Debug\Connect_Four.Form1.resources
+c:\users\pavitra\documents\visual studio 2017\Projects\Connect Four\Connect Four\obj\Debug\Connect_Four.Properties.Resources.resources
+c:\users\pavitra\documents\visual studio 2017\Projects\Connect Four\Connect Four\obj\Debug\Connect Four.csproj.GenerateResource.Cache
+c:\users\pavitra\documents\visual studio 2017\Projects\Connect Four\Connect Four\obj\Debug\Connect Four.exe
+c:\users\pavitra\documents\visual studio 2017\Projects\Connect Four\Connect Four\obj\Debug\Connect Four.pdb
+C:\Users\Pavitra\documents\visual studio 2017\Projects\Connect Four\Connect Four\obj\Debug\Connect_Four.Form2.resources
+C:\Users\Pavitra\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four\bin\Debug\Connect Four.exe.config
