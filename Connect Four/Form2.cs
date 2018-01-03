@@ -28,8 +28,8 @@ namespace Connect_Four
             else if (radioButton3.Checked == true)
                 difficulty = 3;
 
-            this.Hide();                                    //dont know how this snippet works
-            var form1 = new Form1(difficulty);              //got from http://stackoverflow.com/questions/5548746/c-sharp-open-a-new-form-then-close-the-current-form  
+            this.Hide();                                    
+            var form1 = new Form1(difficulty);              
             form1.Closed += (s, args) => this.Close();
             form1.Show();
 
